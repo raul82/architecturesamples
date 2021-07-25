@@ -19,9 +19,11 @@ package com.example.android.architecture.blueprints.todoapp
 /*
  branch 1
     commit 2
+ branch 2
+
 
 */
-
+//   ручное изменение
 import android.app.Application
 import android.os.Bundle
 import androidx.lifecycle.AbstractSavedStateViewModelFactory
